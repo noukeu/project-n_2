@@ -174,7 +174,9 @@ footer {
     .wrapper {
         flex-wrap: wrap;
         flex: 1;
+        max-width: 1034px;
     }
+    
     .main-header {
         flex-direction: row;
         justify-content: space-between;
